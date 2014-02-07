@@ -1,0 +1,16 @@
+{
+    "about": {
+        "firstName" : "Buddha",
+        "lastName"  : "Soumpholphakdy",
+        "alias" : "Downstairz"
+    },
+    "languages" : [
+        "Objective-c",
+        "Java",
+        "Python",
+        "Perl",
+        "Ruby",
+        "PHP",
+        "Javascript"
+    ]
+}
